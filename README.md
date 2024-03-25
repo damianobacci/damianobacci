@@ -2,7 +2,7 @@
 
 I am junior web developer looking for its first job, but also studying a bunch of other things.
 
-Make sure to check my [portfolio](https://damianobacci.net/)
+Make sure to check my [portfolio](https://damianobacci.net/).
 <!--
 **damianobacci/damianobacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
