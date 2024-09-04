@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a software developer experimenting with a bunch of things, trying to get a grasp on the world of computer science. Here you can find experiments, under development and completed projects.
+I am a software developer and data journalist experimenting with a bunch of things, trying to get a grasp on the world of computer science. Here you can find experiments, under development and completed projects.
 
 I am also studying the [Teach Yourself Computer Science](https://teachyourselfcs.com/) curriculum, re-learning high school math in the process. 
 
