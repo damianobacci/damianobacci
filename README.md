@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there!
 
-I am junior web developer looking for its first job, but also studying a bunch of other things.
+I am a software developer experimenting with a bunch of things, trying to get a grasp on the world of computer science. here you can find experiments, under development and completed projects.
+
+I am also studying the [Teach Yourself Computer Science](https://teachyourselfcs.com/) curriculum, re-learning high school math in the process. 
 
 Make sure to check my [portfolio](https://damianobacci.net/).
 <!--
