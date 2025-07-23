@@ -4,9 +4,6 @@ I am also studying the [Teach Yourself Computer Science](https://teachyourselfcs
 
 Make sure to check my [portfolio](https://damianobacci.net/).
 
-[![Damiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianobacci)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **damianobacci/damianobacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
