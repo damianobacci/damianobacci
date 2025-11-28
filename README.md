@@ -2,7 +2,7 @@ I am a software developer and data journalist experimenting with a bunch of thin
 
 I am also studying the [Teach Yourself Computer Science](https://teachyourselfcs.com/) curriculum, re-learning high school and college math in the process. 
 
-Make sure to check my [portfolio](https://damianobacci.net/).
+Make sure to check my [website](https://damianobacci.net/) to learn more.
 
 <!--
 **damianobacci/damianobacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
