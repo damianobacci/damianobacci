@@ -1,8 +1,8 @@
-I am a software developer and data journalist trying to get a grasp on the world of computer science. Here you can find experiments, under development and completed projects.
+I am a software developer and data journalist constantly learning new stuff in the deep ocean of computer science. Here you can find experiments, under development and completed projects.
 
-I am also studying the [Teach Yourself Computer Science](https://teachyourselfcs.com/) curriculum, re-learning high school and college math in the process. 
+I am studying the [Teach Yourself Computer Science](https://teachyourselfcs.com/) curriculum, re-learning math through the [Art Of Problem Solving books](https://artofproblemsolving.com/store).
 
-Make sure to check my [website](https://damianobacci.net/) to learn more.
+[Website](https://damianobacci.net/) · [LinkedIn](https://www.linkedin.com/in/damianobacci/) · [E-mail](mailto:damiano.bacci@gmail.com)
 
 <!--
 **damianobacci/damianobacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
